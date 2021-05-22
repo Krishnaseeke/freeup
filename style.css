@@ -165,6 +165,7 @@ h6{
     cursor:pointer;
     text-align: center;
     transition: all 0.5s;
+    overflow: auto;
 }
 .secondary-btn:hover{
     background-color:#f96816 ;
